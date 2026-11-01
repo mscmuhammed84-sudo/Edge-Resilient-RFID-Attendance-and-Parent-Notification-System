@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the associated paper."
+title: "LSASP lab: edge terminal, synchronization, cloud validator and security experiments"
+authors:
+  - family-names: Taha
+    given-names: Mohammed Dheyaaldeen
+  - family-names: Ahmed
+    given-names: Waleed Kareem
+version: 1.0.0
+date-released: 2026-10-27
+license: MIT
+# doi: "ADD THE ZENODO DOI AFTER THE FIRST RELEASE"
